@@ -1,0 +1,240 @@
+java in 7 days
+
+day 1
+--Lesson 1
+This video introduces the Java platform , and explains why Java is a platform as well a programming language
+
+http://www.guru99.com/java-platform.html
+
+
+--Lesson 2
+This video explains the architecture of Java Virtual Machine (JVM) while comparing it with compilation process in C
+
+http://www.guru99.com/java-virtual-machine-jvm.html
+
+
+--Lesson 3
+This video gives you detailed steps to download and install Java
+
+http://www.guru99.com/install-java.html
+
+
+--Lesson 4
+This lesson takes you through your first Java program.
+
+http://www.guru99.com/first-java-program.html
+
+day 2
+
+
+--Lesson 5
+This tutorial looks into the Evolution of Programming Languages over the years and describes how OOP's came into being.
+http://www.guru99.com/java-oops-concept.html
+
+--Lesson 6
+This tutorial looks into the principle of Data ABSTRACTION in Object Oriented Programming
+http://www.guru99.com/java-data-abstraction.html
+
+--Lesson 7
+This tutorial looks into the principle of Encapsulation in Object Oriented Programming
+http://www.guru99.com/java-oops-encapsulation.html
+
+--Lesson 8
+This tutorial does a comparative analysis between structured (procedural) programming and Object Oriented Programming. It also explains the basic principles of Inheritance and Polymorphism in Java (OOPs)
+http://www.guru99.com/java-inheritance-polymorphism.html
+
+day 3
+--Lesson 9
+
+A variable can be thought of as a container which holds value for you during the life of your program.Every variable is assigned a data type which designates the type and quantity of a value it can hold. Read more - 
+
+http://www.guru99.com/java-variables.html
+
+
+
+--Lesson 10
+
+The following tutorial takes you through the process of  identifying data  members & actions of a class and creating its Object
+
+http://www.guru99.com/java-oops-class-objects.html
+
+
+
+--Lesson 11
+
+An array is a very common type of data structure where in all elements must be of the same data type. Read more- 
+
+http://www.guru99.com/java-arrays.html
+
+
+
+--Lesson 12
+
+During program execution, information passed following a programs name in the command line is called Command Line Arguments. Read more - 
+
+http://www.guru99.com/java-command-line-arguments.html
+
+day 4
+
+--Lesson 13
+
+This video takes you through a practical scenario where you will have to use "this" keyword.
+
+http://www.guru99.com/java-this-keyword.html
+
+
+--Lesson 14
+
+In the Java programming language, dynamic allocation of objects is achieved using the new operator.Read more - 
+
+http://www.guru99.com/java-garbage-collection.html
+
+
+--Lesson 15
+
+The static keyword can be used in 3 scenarios static variables,static methods,static blocks of code.Read more - http://www.guru99.com/java-static-variable-methods.html
+
+
+
+--Lesson 16
+
+The JVM divided the memory into following sections.Heap,Stack,Code,Static. Read more - 
+
+http://www.guru99.com/java-stack-heap.html
+
+day 5
+
+--Lesson 17
+
+This lesson introduces inheritance , method overriding , dynamic polymorphism and keyword super
+
+http://www.guru99.com/java-class-inheritance.html
+--Lesson 18
+
+Consider the following class hierarchy consisting of a Shape class which is inherited by three classes Rectangle , Circle and Triangle. Read more- 
+
+http://www.guru99.com/java-abstract-class-method.html
+
+
+--Lesson 19
+
+The following tutorial discusses issues with multiple inheritance and why java does not allow it. It also introduces interfaces
+
+http://www.guru99.com/java-interface.html
+
+
+--Lesson 20
+
+A constructor is a special method that is used to initialize a newly created objectand is  called just after the memory is allocated for the objectIt can be used to initialize the objects ,to required ,or default valuesat the time of object creationIt is not mandatory for the coder to write a constructor for the class. Read more - 
+
+http://www.guru99.com/java-constructors.html
+
+day 6
+
+--Lesson 21
+
+A package is a collection of related classes.It helps Organize your classes into a folder structure and make it easy to locate and use them. More importantly,It helps improve re-usability.
+
+http://www.guru99.com/java-packages.html
+--Lesson 22
+
+The following Java Video introduces the concept of Exception Handling.
+
+http://www.guru99.com/java-exception-handling.html
+--Lesson 23
+
+In case there are multiple exceptions that might arise in a try block, you can provide several catch blocks each handling a different type of exception. Read more - 
+
+http://www.guru99.com/java-exception.html
+
+--Lesson 24
+
+More often than not, in your programming projects, you will be required to define custom Exceptions also called User-defined Exceptions. This can be done by extending the class Exception. Read more-
+
+http://www.guru99.com/java-user-defined-exception.html
+
+day 7
+
+Lesson 25
+
+Suppose in your java program you using a library method which throws an Exception. Read more - 
+
+http://www.guru99.com/java-exception-throws.html
+
+
+
+--Lesson 26
+
+The java swing package lets you make GUI components for your java applications and is platform independent.The Swing library is built on top of the Java Abstract Widget Toolkit (AWT), an older, platform dependent GUI toolkit..
+
+http://www.guru99.com/java-swing-gui.html
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Selenium in 7 days
+
+day 1
+
+
+--Lesson 1
+Introduction to Selenium
+http://www.guru99.com/introduction-to-selenium.html
+
+
+--Lesson 2
+Install Selenium IDE and FireBug
+http://www.guru99.com/install-selenuim-ide.html
+
+
+--Lesson 3
+Introduction to Selenium IDE
+http://www.guru99.com/introduction-selenuim-ide.html
+
+day 2
+
+
+
+--Lesson 4
+Creating your First Selenium IDE script
+http://www.guru99.com/first-selenium-test-script.html
+
+--Lesson 5
+How to use Locators in Selenium IDE
+http://www.guru99.com/locators-in-selenium-ide.html
+
+
+--Lesson 6
+How to enhance a script using Selenium IDE
+
+day 3
+
+
+--Lesson 7
+Introduction to WebDriver & Comparison with Selenium RC
+
+
+--Lesson 8
+Guide to install Selenium WebDriver
+
+
+--Lesson 9
+Creating your First Script in Webdriver
+
+day 4
+
+
+
+--Lesson 10
+Accessing Forms in Webdriver
+
+
+--Lesson 11
+Accessing Links & Tables using Selenium Webdriver
+
+
+--Lesson 12
+Keyboard Mouse Events , Uploading Files - Webdriver
+
+day 5
+
